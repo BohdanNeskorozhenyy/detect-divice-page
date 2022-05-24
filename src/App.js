@@ -208,8 +208,8 @@ function App() {
             <div className="place">
               <div className="place-img">
                 <iframe
-                  width="376"
-                  height="367"
+                  width="100%"
+                  height="320px"
                   src="https://www.youtube.com/embed/yJcCKuxfb2o"
                   title="YouTube video player"
                   frameborder="0"
@@ -235,8 +235,8 @@ function App() {
             <div className="place">
               <div className="place-img">
                 <iframe
-                  width="376"
-                  height="367"
+                  width="100%"
+                  height="320px"
                   src="https://www.youtube.com/embed/TisGtkOPh24"
                   title="YouTube video player"
                   frameborder="0"
@@ -260,8 +260,8 @@ function App() {
             <div className="place">
               <div className="place-img">
                 <iframe
-                  width="376"
-                  height="367"
+                  width="100%"
+                  height="320px"
                   src="https://www.youtube.com/embed/JgIG6d3JsZs"
                   title="YouTube video player"
                   frameborder="0"
@@ -285,8 +285,8 @@ function App() {
             <div className="place">
               <div className="place-img">
                 <iframe
-                  width="376"
-                  height="367"
+                  width="100%"
+                  height="320px"
                   src="https://www.youtube.com/embed/au1Tb0tEe6I"
                   title="YouTube video player"
                   frameborder="0"
@@ -311,8 +311,8 @@ function App() {
             <div className="place">
               <div className="place-img">
                 <iframe
-                  width="376"
-                  height="367"
+                  width="100%"
+                  height="320px"
                   src="https://www.youtube.com/embed/3PDq09nqCTs"
                   title="YouTube video player"
                   frameborder="0"

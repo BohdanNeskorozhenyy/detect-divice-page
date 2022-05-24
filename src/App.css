@@ -97,6 +97,9 @@ a {
    max-width: 1060px;
    margin: 0 auto;
 }
+.maine {
+   width: 100%;
+}
 /*header-styles-start*/
  .header {
    z-index: 3;
